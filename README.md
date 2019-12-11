@@ -1,4 +1,4 @@
-# Live_Coding_3
+# Zip Two Arrays
 
 In this problem you are given 2 arrays of identical size. You need to zip the two arrays together maintaing their order.
 Example:
